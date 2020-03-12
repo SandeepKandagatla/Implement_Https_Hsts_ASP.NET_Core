@@ -1,0 +1,16 @@
+C:\Users\sandeep.kandagatla\Desktop\Program\programming\ImplementHttpsandHSTS\ImplementHttpsandHSTS\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\sandeep.kandagatla\Desktop\Program\programming\ImplementHttpsandHSTS\ImplementHttpsandHSTS\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\sandeep.kandagatla\Desktop\Program\programming\ImplementHttpsandHSTS\ImplementHttpsandHSTS\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\sandeep.kandagatla\Desktop\Program\programming\ImplementHttpsandHSTS\ImplementHttpsandHSTS\bin\Debug\netcoreapp2.2\ImplementHttpsandHSTS.deps.json
+C:\Users\sandeep.kandagatla\Desktop\Program\programming\ImplementHttpsandHSTS\ImplementHttpsandHSTS\bin\Debug\netcoreapp2.2\ImplementHttpsandHSTS.runtimeconfig.json
+C:\Users\sandeep.kandagatla\Desktop\Program\programming\ImplementHttpsandHSTS\ImplementHttpsandHSTS\bin\Debug\netcoreapp2.2\ImplementHttpsandHSTS.runtimeconfig.dev.json
+C:\Users\sandeep.kandagatla\Desktop\Program\programming\ImplementHttpsandHSTS\ImplementHttpsandHSTS\bin\Debug\netcoreapp2.2\ImplementHttpsandHSTS.dll
+C:\Users\sandeep.kandagatla\Desktop\Program\programming\ImplementHttpsandHSTS\ImplementHttpsandHSTS\bin\Debug\netcoreapp2.2\ImplementHttpsandHSTS.pdb
+C:\Users\sandeep.kandagatla\Desktop\Program\programming\ImplementHttpsandHSTS\ImplementHttpsandHSTS\obj\Debug\netcoreapp2.2\ImplementHttpsandHSTS.csprojAssemblyReference.cache
+C:\Users\sandeep.kandagatla\Desktop\Program\programming\ImplementHttpsandHSTS\ImplementHttpsandHSTS\obj\Debug\netcoreapp2.2\ImplementHttpsandHSTS.RazorAssemblyInfo.cache
+C:\Users\sandeep.kandagatla\Desktop\Program\programming\ImplementHttpsandHSTS\ImplementHttpsandHSTS\obj\Debug\netcoreapp2.2\ImplementHttpsandHSTS.RazorAssemblyInfo.cs
+C:\Users\sandeep.kandagatla\Desktop\Program\programming\ImplementHttpsandHSTS\ImplementHttpsandHSTS\obj\Debug\netcoreapp2.2\ImplementHttpsandHSTS.AssemblyInfoInputs.cache
+C:\Users\sandeep.kandagatla\Desktop\Program\programming\ImplementHttpsandHSTS\ImplementHttpsandHSTS\obj\Debug\netcoreapp2.2\ImplementHttpsandHSTS.AssemblyInfo.cs
+C:\Users\sandeep.kandagatla\Desktop\Program\programming\ImplementHttpsandHSTS\ImplementHttpsandHSTS\obj\Debug\netcoreapp2.2\ImplementHttpsandHSTS.RazorTargetAssemblyInfo.cache
+C:\Users\sandeep.kandagatla\Desktop\Program\programming\ImplementHttpsandHSTS\ImplementHttpsandHSTS\obj\Debug\netcoreapp2.2\ImplementHttpsandHSTS.dll
+C:\Users\sandeep.kandagatla\Desktop\Program\programming\ImplementHttpsandHSTS\ImplementHttpsandHSTS\obj\Debug\netcoreapp2.2\ImplementHttpsandHSTS.pdb
